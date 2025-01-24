@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/bGHGPcT1"))()
+jiloadstring(game:HttpGet("https://pastebin.com/raw/bGHGPcT1"))()
 
 local args = {
             [1] = "PickingTools",
@@ -1366,4 +1366,4 @@ local function AddButton(name, tool)
 local redzlib =       
         
         
-        loadstring(game: HttpGet("https://github.com/YimGg992/Yim-HubZ/blob/main/README.md"))()    
+        loadstring(game: HttpGet("https://raw.githubusercontent.com/YimGg992/Segaz-HubZ/refs/heads/main/README.md"))()    
