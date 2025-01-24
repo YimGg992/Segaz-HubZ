@@ -1,4 +1,4 @@
-jiloadstring(game:HttpGet("https://pastebin.com/raw/bGHGPcT1"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/bGHGPcT1"))()
 
 local args = {
             [1] = "PickingTools",
